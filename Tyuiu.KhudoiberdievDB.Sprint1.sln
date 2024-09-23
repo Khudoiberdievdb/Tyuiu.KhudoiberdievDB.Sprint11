@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{2C069E51-AEB5-46C1-9966-6D4AA00E09D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Lib", "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Lib\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Lib.csproj", "{D0988D10-5BDA-4C82-8BC0-E783EFA4B601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.Lib", "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Lib\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.Lib.csproj", "{D0988D10-5BDA-4C82-8BC0-E783EFA4B601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Test", "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Test\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Test.csproj", "{8C134008-A604-489D-9C61-DC81DE8752F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.Test", "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.Test\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.Test.csproj", "{8C134008-A604-489D-9C61-DC81DE8752F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0", "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0.csproj", "{907D623D-C352-445A-A33E-61D65EEDBFFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4", "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V0\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.csproj", "{907D623D-C352-445A-A33E-61D65EEDBFFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
