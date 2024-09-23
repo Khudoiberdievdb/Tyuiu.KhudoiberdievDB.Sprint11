@@ -11,7 +11,7 @@ namespace Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4
             Console.WriteLine("* Спринт #1                                                                    *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                             *");
             Console.WriteLine("* Задание #0                                                                   *");
-            Console.WriteLine("* Вариант #0                                                                   *");
+            Console.WriteLine("* Вариант #4                                                                   *");
             Console.WriteLine("* Выполнил: Худойбердиев Далер Бахритдинович | ИСПБ 24-1                       *");
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                     *");
@@ -26,7 +26,7 @@ namespace Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                   *");
             Console.WriteLine("********************************************************************************");
             Console.WriteLine(ds.Calculate());
-            
+
             Console.ReadLine();
 
         }
