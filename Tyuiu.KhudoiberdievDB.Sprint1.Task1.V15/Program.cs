@@ -33,7 +33,7 @@ namespace Tyuiu.KhudoiberdievDB.Sprint1.Task1.V15
             Console.WriteLine("********************************************************************************");
 
             Console.WriteLine(ds.Calculate(x));
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
