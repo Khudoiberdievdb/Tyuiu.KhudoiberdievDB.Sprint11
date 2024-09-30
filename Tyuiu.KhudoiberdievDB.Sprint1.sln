@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KhudoiberdievDB.Sprin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task1.V15.Lib", "Tyuiu.KhudoiberdievDB.Sprint1.Task1.V15.Lib\Tyuiu.KhudoiberdievDB.Sprint1.Task1.V15.Lib.csproj", "{2E610E63-01C5-4B92-80C9-294D0AB8F1A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhudoberdievDB.Sprint1.Task0.V4.Lib", "Tyuiu.KhudoberdievDB.Sprint1.Task0.V4.Lib\Tyuiu.KhudoberdievDB.Sprint1.Task0.V4.Lib.csproj", "{5B2DCA10-1393-4A00-BBA2-14EB91D6D1D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.Lib", "Tyuiu.KhudoberdievDB.Sprint1.Task0.V4.Lib\Tyuiu.KhudoiberdievDB.Sprint1.Task0.V4.Lib.csproj", "{5B2DCA10-1393-4A00-BBA2-14EB91D6D1D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
