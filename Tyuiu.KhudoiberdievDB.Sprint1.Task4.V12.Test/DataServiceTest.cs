@@ -13,7 +13,7 @@ namespace Tyuiu.KhudoiberdievDB.Sprint1.Task4.V12.Test
             double y = 4;
             double wait = 0.01;
             
-            var res = ds.Calculate( x, y);
+            var res = ds.Calculate(x, y);
             
             Assert.AreEqual(wait, res);
             

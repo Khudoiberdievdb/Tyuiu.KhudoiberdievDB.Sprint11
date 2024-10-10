@@ -11,4 +11,10 @@
     <ProjectReference Include="..\Tyuiu.KhudoiberdievDB.Sprint1.Task3.V13.Lib\Tyuiu.KhudoiberdievDB.Sprint1.Task3.V13.Lib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\..\..\Tyuiu.KhudoiberdievDB.Sprint1\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

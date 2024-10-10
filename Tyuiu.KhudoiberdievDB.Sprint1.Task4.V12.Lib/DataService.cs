@@ -1,4 +1,4 @@
-﻿using tyuiu.cources.programming.interfaces;
+﻿
 using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.KhudoiberdievDB.Sprint1.Task4.V12.Lib
 {
